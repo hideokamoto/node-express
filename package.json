@@ -1,0 +1,14 @@
+{
+  "name": "node-wp-api",
+  "version": "0.0.1",
+  "description": "Sample application to use wp api on node server with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hideokamoto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
